@@ -9,7 +9,7 @@ You can access the repo here: [https://github.com/codywmarkham/repo-gen](https:/
 ## Mock-up
 The following picture shows the appearance:
 
-![Explantion Image](https://github.com/codywmarkham/Api-Quiz/blob/main/assets/exp.PNG)
+![Explantion Image](https://github.com/codywmarkham/repo-gen/blob/main/assets/exp.PNG)
 
 ## Installation
 To fork this code to further improve the website, please follow these directions:
