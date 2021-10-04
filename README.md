@@ -6,6 +6,11 @@ Instructions on how to make a good README. Follow the steps for a great README.
 ## Usage
 You can access the repo here: [https://github.com/codywmarkham/repo-gen](https://github.com/codywmarkham/repo-gen).
 
+## Mock-up
+The following picture shows the appearance:
+
+![Explantion Image](https://github.com/codywmarkham/Api-Quiz/blob/main/assets/exp.PNG)
+
 ## Installation
 To fork this code to further improve the website, please follow these directions:
 
